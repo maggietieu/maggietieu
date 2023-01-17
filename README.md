@@ -1,6 +1,6 @@
 <h1> Hi there! I'm Maggie. </h1> 
 
-I'm currently a senior at the University of Florida studying Computer Science. Here, you will find several of the (public) projects I've worked on!
+I'm currently a student at the University of Florida studying computer science. Here, you will find several of the (public) projects I've worked on!
 
 Discover more of my projects and past CS experiences through my LinkedIn profile: https://www.linkedin.com/in/maggietieu/.
 
