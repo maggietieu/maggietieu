@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Maggie</h1>
-<h3 align="center">An aspiring software engineer</h3>
+<h1 align="center">Hi, I'm Maggie.</h1>
+<h3 align="center">An aspiring software engineer, currently studying CS at the University of Florida</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maggietieu&label=Profile%20views&color=0e75b6&style=flat" alt="maggietieu" /> </p>
 
 - 📫 How to reach me **maggie20mt@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/maggietieu](https://www.linkedin.com/in/maggietieu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
